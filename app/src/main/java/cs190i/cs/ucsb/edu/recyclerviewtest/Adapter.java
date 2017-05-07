@@ -1,5 +1,6 @@
 package cs190i.cs.ucsb.edu.recyclerviewtest;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
@@ -9,6 +10,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
+
 import java.util.List;
 import pl.droidsonroids.gif.GifImageView;
 
